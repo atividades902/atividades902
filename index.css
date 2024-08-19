@@ -288,7 +288,7 @@ small {
     .itensdomenusuperior {
         margin-block: 20px;
         margin-left: 3px;
-
+        border: black solid 1px;
     }
 
     #clock {
